@@ -1,0 +1,58 @@
+h1.Namegame {
+    margin: 40px;
+    font-family: 'Forte', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 60px;
+    color: rgb(233, 218, 132);
+  }
+
+h3 {
+  margin: 30px;
+  font-family: 'EucrosiaUPC', cursive;
+  font-size: 30px;
+  color: rgb(233, 218, 132);
+}
+
+h4 {
+  margin: 30px;
+  font-family: 'EucrosiaUPC', cursive;
+  font-size: 26px;
+  color: rgb(233, 218, 132);
+}
+
+.btn {
+  display: inline-block;
+  width: 10%;
+  padding: 10px 15px;
+  border: 0;
+}
+
+.bt {
+  display: block;
+  width: 10%;
+  padding: 10px 15px;
+  border: 0;
+  background-color: #333;
+  color: rgb(211, 187, 53);
+  border-radius: 5px;
+  margin: 5px 0;
+  
+}
+
+.btn:hover {
+  background: #444;
+}
+
+.bt:focus{
+  outline: 0;
+}
+
+.error {
+  width: 20%;
+  padding: 10px 15px;
+  border: 15;
+  background: rgb(255, 183, 157);
+  color: #fff;
+  padding: 5px;
+  margin: 25px;
+}
